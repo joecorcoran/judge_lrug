@@ -1,0 +1,7 @@
+{
+  "name":"Judge",
+  "description":"Client-side form validation in Rails 3",
+  "sections": [
+    "judge"
+  ]
+}
